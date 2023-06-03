@@ -1,0 +1,317 @@
+/* all bases */
+
+.body{
+	background: #333333;
+}
+
+/* header base */
+
+.header {
+	background: #3a3a3a;
+	margin: auto;
+	max-width: 1550px;
+	border-radius: 35px;
+}
+.header1 {
+	display: flex;
+}
+.header-list {
+	list-style: none;
+	display: flex;
+	margin: auto;
+}
+.header-text {
+	color: #222222;
+	font-size: 30px;
+	margin: auto 30px;
+}
+.header-text-a {
+	text-decoration: none;
+	color: #ffffff;
+}
+.header-list-text {
+	font-size: 50px;
+	color: #ffffff;
+}
+.img_logo {
+	margin: 40px 45px;
+	height: 65px;
+}
+
+/* main base */
+
+.main{
+	max-width: 1550px;
+	margin: auto;
+}
+.section1{
+	background: #444444;
+	margin: 0 0;
+	border-radius: 35px;
+	margin-top: 30px;
+}
+.section2{
+	background: #676767;
+	margin: 0 0;
+	border-radius: 35px;
+	margin-top: 30px;
+}
+.section3{
+	background: #444444;
+	margin: 0 0;
+	border-radius: 35px;
+	margin-top: 30px;
+}
+.section4{
+	background: #676767;
+	margin: 0 0;
+	border-radius: 35px;
+	margin-top: 30px;
+}
+.s1div1{
+	display: flex;
+}
+.s1div2{
+	
+}
+.main-s1-text1{
+	font-size: 35px;
+	color: #ffffff;
+	margin: 120px 300px;
+}
+.main-s1-text2{
+	font-size: 25px;
+	color: #ffffff;
+	margin: 120px auto;
+	max-width: 430px;
+	text-align: center;
+}
+.href1{
+	font-size: 35px;
+	padding: 10px;
+	background: #aa9500;
+	max-width: 310px;
+	border-radius: 20px;
+	margin-left: 200px;
+	border: 5px #000000 solid;
+	transition: 0.5s;
+}
+.href1:hover{
+	font-size: 35px;
+	padding: 10px;
+	background: #ddca00;
+	max-width: 310px;
+	border-radius: 20px;
+	margin-left: 200px;
+	border: 5px #000000 solid;
+}
+.href1a{
+	color: #000000;
+	text-decoration: none;
+	max-width: 310px;
+	transition: 0.5s;
+}
+.href1a:hover{
+	color: #888888;
+	text-decoration: none;
+	max-width: 310px;
+}
+.href2{
+	font-size: 35px;
+	padding: 10px;
+	background: #aa9500;
+	max-width: 350px;
+	border-radius: 20px;
+	margin-left: 180px;
+	border: 5px #000000 solid;
+	transition: 0.5s;
+}
+.href2:hover{
+	font-size: 35px;
+	padding: 10px;
+	background: #ddca00;
+	max-width: 350px;
+	border-radius: 20px;
+	margin-left: 180px;
+	border: 5px #000000 solid;
+}
+.href2a{
+	color: #000000;
+	text-decoration: none;
+	max-width: 310px;
+	transition: 0.5s;
+}
+.href2a:hover{
+	color: #888888;
+	text-decoration: none;
+	max-width: 310px;
+}
+.h2{
+	margin: 0 0;
+	font-size: 60px;
+	color: #ffffff;
+	text-align: center;
+	padding: 40px;
+}
+
+/* section 2 */
+
+.s2d2text{
+	font-size: 50px;
+	color: #ffffff;
+}
+.s2div1{
+	display: flex;
+}
+.s2div2{
+	margin-left: 30px;
+	padding: 100px;
+}
+.s1img{
+	width: 300px;
+}
+.s1div-gra{
+	height: 24px;
+	width: 450px;
+	background-color: #222222;
+	border-radius: 15px;
+	border: 1px solid #ffffff;
+}
+.s1div-gra2{
+	height: 20px;
+	width: 40%;
+	background-color: #4444ff;
+	border-radius: 15px;
+	border: 1px solid #ffffff;
+}
+.s1div-su{
+	height: 24px;
+	width: 450px;
+	background-color: #222222;
+	border-radius: 15px;
+	border: 1px solid #ffffff;
+}
+.s1div-su2{
+	height: 20px;
+	width: 15%;
+	background-color: #4444ff;
+	border-radius: 15px;
+	border: 1px solid #ffffff;
+}
+.s1div-gmpl{
+	height: 24px;
+	width: 450px;
+	background-color: #222222;
+	border-radius: 15px;
+	border: 1px solid #ffffff;
+}
+.s1div-gmpl2{
+	height: 20px;
+	width: 95%;
+	background-color: #4444ff;
+	border-radius: 15px;
+	border: 1px solid #ffffff;
+}
+
+/* section 3 */
+
+.s3d1{
+	padding: 90px 130px;
+	height: 845px;
+}
+.s3text{
+	margin: 0 0;
+	padding: 35px;
+	font-size: 70px;
+	text-align: center;
+	color: #ffffff;
+}
+
+
+/* section 4 */
+
+.s4text{
+	margin: 0 0;
+	padding: 35px;
+	font-size: 70px;
+	text-align: center;
+	color: #ffffff;
+}
+.ss{
+	padding: 55px;
+	width: 400px;
+}
+
+/* footer */
+
+.footer{
+	max-width: 1550px;
+	margin: auto;
+	background-color: #444444;
+	display: flex;
+	border-radius: 35px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.footer-a{
+	font-size: 45px;
+	color: #ffffff;
+	margin: 0 0;
+	padding: 45px;
+}
+.last-img{
+	height: 100px;
+	padding: 30px;
+	margin-left: 600px;
+}
+
+/* button "up" */
+
+.upbotton{
+	position: fixed;
+	top: 1;
+	left: 1;
+	right: 0;
+	bottom: 0;
+}
+.upbutton-a{
+	position: fixed;
+	top: 1;
+	left: 1;
+	right: 0;
+	bottom: 0;
+	color: #555555;
+	text-decoration: none;
+	font-size: 40px;
+	background-color: #ffff00;
+	padding: 10px;
+	border: #000000 solid 3px;
+	border-radius: 15px;
+}
+.uptext{
+	color: #333333;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
